@@ -3,17 +3,18 @@
 <p>
   This website with exercises accompanies the material available at <a
     class="link-primary"
-    href="https://vda-lab.gitlab.io/datavis-technologies"
+    href="https://vda-lab.gitlab.io/enterome-datavis-technologies"
   >
-    https://vda-lab.gitlab.io/datavis-technologies
+    https://vda-lab.gitlab.io/enterome-datavis-technologies
   </a>. The material is licensed under the
-  <a class="link-primary" href="https://creativecommons.org/licenses/by/4.0/">
-    Creative Commons Attribution License
-  </a> CC-BY: feel free to copy/remix/tweak/…​ it, but you need credit your source
-  (i.e. this website and its creators).
+  <a class="link-primary" href="https://creativecommons.org/licenses/by-nc/4.0/">
+    Creative Commons Attribution No-Commercial License
+  </a> CC-BY-NC: feel free to copy/remix/tweak/…​ it, but you need credit your source
+  (i.e. this website and its creator). It can also not be used for commercial purposes 
+  except by the original author.
 </p>
 
-<img src="/ccby.png" alt="ccby" />
+<img src="/ccbync.png" alt="ccbync" /> (c) Jelmer Bot, Jan Aerts. 2023
 
 <hr />
 
